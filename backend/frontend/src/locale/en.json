@@ -1,0 +1,18 @@
+{
+    "html_title":"El Forsan Online Store",
+    "dir":"ltr",
+    "header" : {
+        
+    },
+    "footer" : {
+        "about_us":{
+            "title":"About Us",
+            "content":"El fursan factory for the production and packaging of foodstuffs has been specializing in the preparation of luxury products since 2012 and our ambition and mission remains to reflect the honest and bright image of our food products everywhere."
+        },
+        "contact_us":{
+            "title":"Contact Us",
+            "content":"An Nakhas, Zagazig, Ash Sharqia Governorate, Egypt"
+        },
+        "payment_method":"Payment Method"
+    }
+}
